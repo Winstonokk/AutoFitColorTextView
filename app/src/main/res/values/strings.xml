@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoFitColorTextView</string>
+
+    <string name="str_open_member_tip">开通%1$s元尊享会员，开通即领取%2$s元礼包</string>
+    <string name="str_open_member_tip2">开通%1$s元尊享会员，开通即领取%2$s元礼包，免费观看VIP视频~</string>
+    <string name="str_open_member_tip3">开通%1$s元尊享会员，开通即领取%2$s元礼包，还能够参加多种有趣的抽奖活动哦~</string>
+</resources>
