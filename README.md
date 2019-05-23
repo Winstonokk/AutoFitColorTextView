@@ -1,0 +1,2 @@
+# AutoFitColorTextView
+固定边界，内容字体大小自适应并且可以指定同一字符串不同内容不同颜色的 TextView
